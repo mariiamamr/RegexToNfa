@@ -1,0 +1,1 @@
+{"S0":{"E":"S1","isTerminatingState":"false","startingState":"S0"}}{"S0":{"E":"S4","isTerminatingState":"false","startingState":"S0"}}{"S1":{"a":"S2","isTerminatingState":"false"}}{"S2":{"b":"S3","isTerminatingState":"false"}}{"S3":{"E":"S4","isTerminatingState":"false"}}{"S3":{"E":"S1","isTerminatingState":"false"}}{"S4":"isTerminatingState:true"}
